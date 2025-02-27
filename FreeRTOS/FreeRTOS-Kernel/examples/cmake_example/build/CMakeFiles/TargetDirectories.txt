@@ -1,0 +1,11 @@
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/CMakeFiles/example.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/include/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/include/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/portable/CMakeFiles/freertos_kernel_port.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/portable/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/portable/CMakeFiles/rebuild_cache.dir

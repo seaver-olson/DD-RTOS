@@ -246,6 +246,7 @@ target_sources(freertos_kernel PRIVATE
     stream_buffer.c
     tasks.c
     timers.c
+    portable/GCC/ARM_CM33/port.c # hopefully finally compiles targeting the board
 )
 
 if (DEFINED FREERTOS_HEAP )
