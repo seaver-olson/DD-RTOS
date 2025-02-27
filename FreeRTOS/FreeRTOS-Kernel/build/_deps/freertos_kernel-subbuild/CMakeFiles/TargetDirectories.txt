@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/CMakeFiles/freertos_kernel-populate.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/CMakeFiles/rebuild_cache.dir

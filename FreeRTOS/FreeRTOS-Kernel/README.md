@@ -34,7 +34,7 @@ we have an active community that can help on the
 
 ### Consume with CMake
 
-If using CMake, it is recommended to use this repository using FetchContent.
+cIf using CMake, it is recommended to use this repository using FetchContent.
 Add the following into your project's main or a subdirectory's `CMakeLists.txt`:
 
 - Define the source and version/tag you want to use:

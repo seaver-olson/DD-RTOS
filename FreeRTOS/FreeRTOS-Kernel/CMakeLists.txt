@@ -1,5 +1,34 @@
 cmake_minimum_required(VERSION 3.15)
+project(DD-RTOS)
 
+include(FetchContent)
+
+fetchContent_Declare( freertos_kernel
+  GIT_REPOSITORY https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+  GIT_TAG        main #Note: Best practice to use specific git-hash or tagged version
+)
+
+add_library(freertos_config INTERFACE)
+
+target_include_directories(freertos_config SYSTEM
+INTERFACE
+    include
+)
+
+target_compile_definitions(freertos_config
+  INTERFACE
+    projCOVERAGE_TEST=0
+)
+
+set( FREERTOS_HEAP "4" CACHE STRING "" FORCE)
+# Select the native compile PORT
+set( FREERTOS_PORT "GCC_ARM_CM33_SECURE" CACHE STRING "" FORCE)
+# Select the cross-compile PORT
+if (CMAKE_CROSSCOMPILING)
+  set(FREERTOS_PORT "GCC_ARM_CM33_SECURE" CACHE STRING "" FORCE)
+endif()
+
+FetchContent_MakeAvailable(freertos_kernel)
 # User is responsible to one mandatory option:
 #   FREERTOS_PORT, if not specified and native port detected, uses the native compile.
 #
@@ -246,7 +275,6 @@ target_sources(freertos_kernel PRIVATE
     stream_buffer.c
     tasks.c
     timers.c
-    portable/GCC/ARM_CM33/port.c # hopefully finally compiles targeting the board
 )
 
 if (DEFINED FREERTOS_HEAP )

@@ -1,0 +1,14 @@
+# Target labels
+ freertos_kernel-populate
+# Source files and their labels
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/CMakeFiles/freertos_kernel-populate
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/CMakeFiles/freertos_kernel-populate.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/CMakeFiles/freertos_kernel-populate-complete.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-build.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-configure.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-download.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-install.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-mkdir.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-patch.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-test.rule
+/home/ubuntu/Desktop/DD-RTOS/FreeRTOS/FreeRTOS-Kernel/build/_deps/freertos_kernel-subbuild/freertos_kernel-populate-prefix/src/freertos_kernel-populate-stamp/freertos_kernel-populate-update.rule
